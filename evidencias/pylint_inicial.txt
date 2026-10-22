@@ -1,0 +1,9 @@
+************* Module biblioteca
+biblioteca.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+biblioteca.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+biblioteca.py:3:25: C0321: More than one statement on a single line (multiple-statements)
+biblioteca.py:4:26: C0321: More than one statement on a single line (multiple-statements)
+
+-----------------------------------
+Your code has been rated at 6.36/10
+

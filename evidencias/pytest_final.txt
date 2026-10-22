@@ -1,0 +1,13 @@
+============================= test session starts =============================
+platform win32 -- Python 3.14.7, pytest-9.1.1, pluggy-1.7.0 -- C:\Users\USUARIO\Documents\Codex\2026-10-22\files-mentioned-by-the-user-laboratorio\work\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\USUARIO\Documents\Codex\2026-10-22\files-mentioned-by-the-user-laboratorio\outputs\biblioteca_multas
+plugins: platformdirs-4.13.5
+collecting ... collected 4 items
+
+test_biblioteca.py::test_calcula_multa_por_retraso PASSED                [ 25%]
+test_biblioteca.py::test_no_hay_multa_sin_retraso PASSED                 [ 50%]
+test_biblioteca.py::test_rechaza_dias_negativos PASSED                   [ 75%]
+test_biblioteca.py::test_rechaza_tarifa_negativa PASSED                  [100%]
+
+============================== 4 passed in 0.12s ==============================
