@@ -1,0 +1,8 @@
+def calcular_multa(dias_retraso, tarifa_diaria):
+    multa = dias_retraso * tarifa_diaria
+    if dias_retraso < 0: print("dias invalidos"); return None
+    if tarifa_diaria < 0: print("tarifa invalida"); return None
+    print("La multa es:", multa)
+    return multa
+
+print(calcular_multa(3, 2))
